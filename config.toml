@@ -1,4 +1,4 @@
-baseURL = 'http://seaspores.us/'
+baseURL = 'http://seaspores.cloud/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Seaspores'
 theme = 'ananke'
